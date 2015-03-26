@@ -1,0 +1,5 @@
+/Users/bislip/Projects/comscore-binding-ios/comscore-binding-ios/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/bislip/Projects/comscore-binding-ios/comscore-binding-ios/bin/Debug/comscore-binding-ios.dll.mdb
+/Users/bislip/Projects/comscore-binding-ios/comscore-binding-ios/bin/Debug/comscore-binding-ios.dll
+/Users/bislip/Projects/comscore-binding-ios/comscore-binding-ios/obj/Debug/comscore-binding-ios.dll
+/Users/bislip/Projects/comscore-binding-ios/comscore-binding-ios/obj/Debug/comscore-binding-ios.dll.mdb

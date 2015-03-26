@@ -1,0 +1,3 @@
+/Users/bislip/Projects/comscore-binding-ios/comscore-binding-ios/obj/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/bislip/Projects/comscore-binding-ios/comscore-binding-ios/bin/Release/CSComScore.iOS.dll
+/Users/bislip/Projects/comscore-binding-ios/comscore-binding-ios/obj/Release/CSComScore.iOS.dll
