@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="comscore-binding-ios/CSComScore.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../AudioAddict/AudioAddict.iOS/Playback/SeamlessReconnectIcecastPlayer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="comscore-binding-ios/libcomScore.linkwith.cs">
     <Files>
-      <File FileName="../AudioAddict/AudioAddict.iOS/Playback/SeamlessReconnectIcecastPlayer.cs" Line="66" Column="13" />
-      <File FileName="comscore-binding-ios/ApiDefinition.cs" Line="24" Column="12" />
+      <File FileName="comscore-binding-ios/ApiDefinition.cs" Line="5" Column="2" />
+      <File FileName="comscore-binding-ios/libcomScore.linkwith.cs" Line="5" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
